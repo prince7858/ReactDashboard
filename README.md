@@ -2,6 +2,15 @@
 
 This responsive and interactive dashboard interface for EzyMetrics, built using React.js. It features an overview of key metrics, customizable widgets, lead management, analytics visualization, and report generation.
 
+# ReactDashboard
+
+This is a simple React application that does amazing things.
+
+## Repository Link
+
+You can view the repository [Live here](https://prince7858.github.io/ReactDashboard/).
+
+
 ## Features
 
 1. **Dashboard Overview**:
