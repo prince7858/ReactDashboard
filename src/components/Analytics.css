@@ -1,0 +1,35 @@
+.analytics-dashboard {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 20px; /* Add padding for mobile responsiveness */
+}
+
+.chart-container {
+    width: 100%; /* Make the charts responsive to screen size */
+    max-width: 700px; /* Limit maximum width */
+    height: 350px; /* Set a consistent height */
+    margin: 20px 0;
+    padding: 15px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.chart-container h3 {
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 18px;
+    color: #333;
+}
+
+/* Adjust canvas size for proper scaling */
+.chart-container canvas {
+    width: 100% !important;
+    height: auto !important;
+}

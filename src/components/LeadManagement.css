@@ -1,0 +1,18 @@
+.lead-management {
+    margin-top: 20px;
+}
+
+.lead-management table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.lead-management th, .lead-management td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.lead-management th {
+    background-color: #f4f4f4;
+    text-align: left;
+}
