@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.847de27e.css",
-    "main.js": "/static/js/main.70b90e12.js",
-    "static/js/239.a6d5727a.chunk.js": "/static/js/239.a6d5727a.chunk.js",
-    "static/js/213.74d075e4.chunk.js": "/static/js/213.74d075e4.chunk.js",
-    "static/js/732.97aefb7c.chunk.js": "/static/js/732.97aefb7c.chunk.js",
-    "static/js/453.237c40a8.chunk.js": "/static/js/453.237c40a8.chunk.js",
-    "index.html": "/index.html",
-    "main.847de27e.css.map": "/static/css/main.847de27e.css.map",
-    "main.70b90e12.js.map": "/static/js/main.70b90e12.js.map",
-    "239.a6d5727a.chunk.js.map": "/static/js/239.a6d5727a.chunk.js.map",
-    "213.74d075e4.chunk.js.map": "/static/js/213.74d075e4.chunk.js.map",
-    "732.97aefb7c.chunk.js.map": "/static/js/732.97aefb7c.chunk.js.map",
-    "453.237c40a8.chunk.js.map": "/static/js/453.237c40a8.chunk.js.map"
+    "main.css": "/ReactDashboard/static/css/main.847de27e.css",
+    "main.js": "/ReactDashboard/static/js/main.48296dc4.js",
+    "static/js/239.a6d5727a.chunk.js": "/ReactDashboard/static/js/239.a6d5727a.chunk.js",
+    "static/js/213.74d075e4.chunk.js": "/ReactDashboard/static/js/213.74d075e4.chunk.js",
+    "static/js/732.97aefb7c.chunk.js": "/ReactDashboard/static/js/732.97aefb7c.chunk.js",
+    "static/js/453.237c40a8.chunk.js": "/ReactDashboard/static/js/453.237c40a8.chunk.js",
+    "index.html": "/ReactDashboard/index.html",
+    "main.847de27e.css.map": "/ReactDashboard/static/css/main.847de27e.css.map",
+    "main.48296dc4.js.map": "/ReactDashboard/static/js/main.48296dc4.js.map",
+    "239.a6d5727a.chunk.js.map": "/ReactDashboard/static/js/239.a6d5727a.chunk.js.map",
+    "213.74d075e4.chunk.js.map": "/ReactDashboard/static/js/213.74d075e4.chunk.js.map",
+    "732.97aefb7c.chunk.js.map": "/ReactDashboard/static/js/732.97aefb7c.chunk.js.map",
+    "453.237c40a8.chunk.js.map": "/ReactDashboard/static/js/453.237c40a8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.847de27e.css",
-    "static/js/main.70b90e12.js"
+    "static/js/main.48296dc4.js"
   ]
 }
